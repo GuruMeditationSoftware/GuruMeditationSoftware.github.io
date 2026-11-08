@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gurumeditationsoftware.github.io/sitemap.xml
